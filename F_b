@@ -1,1 +1,8 @@
-
+class F_b
+{
+    public static void main (String args [])
+     {
+        System.outt.print("hell");
+     }
+    
+}
